@@ -6,3 +6,12 @@ console.log('I am Slime');
 
  var greet = 'hello', who = 'world';
 console.log(greet, who)
+
+console.log({
+    'Email':"",
+    'Group':{},
+    'Id': 443,
+    'IsSiteAdmin': false,
+    
+
+})
