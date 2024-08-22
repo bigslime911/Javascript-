@@ -12,6 +12,15 @@ console.log({
     'Group':{},
     'Id': 443,
     'IsSiteAdmin': false,
-    
+
 
 })
+var detail =[
+    'Kojo',
+    'Kwame',
+    'kofi',
+]
+console.log(detail[1])
+
+const john = {firstname: "John", lastname: "Doe", fullname: "John Doe"};
+console.log(john.fullname)
